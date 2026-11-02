@@ -1,0 +1,6 @@
+{
+  "name": "IN-Sight",
+  "description": "Integrated Dashboard for Monitoring and Tracking Institution-Related Complaint Cases Across AICTE Bureaus and Cells with Intelligent Matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
